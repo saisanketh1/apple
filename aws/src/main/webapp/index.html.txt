@@ -8,7 +8,7 @@
 
 <h2 style="color: bule; font-size: 30px;" align="center">Welcome! We're thrilled to have you with us</h3>
 
-I
+<h2 style="color: bule; font-size: 30px;" align="center">Welcome! We're thrilled to have you with us</h3>
 
 </body>
 
